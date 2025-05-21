@@ -1,6 +1,7 @@
 \documentclass[aspectratio=169]{beamer}
 \usetheme{fdu}
 \input{math_commands.tex}
+\usepackage{hyperref}
 
 %%% Titlepage information
 \title[数据结构与算法导论]{商业决策平台的智能数据管理系统}
@@ -437,6 +438,12 @@
 
 \begin{frame}{关于商品数据检索模块}
     当前使用Trie树进行前缀匹配，然而Trie树在外存的效率并不高，后续可以考虑将B+树和Trie树结合起来，使用B+树的每一个叶节点存放一个Trie树的方式，来提升前缀匹配效率
+\end{frame}
+
+\begin{frame}{源代码}
+    \url{https://github.com/FDULeolu/data_structure_pj}
+    \\
+    感兴趣的同学可以帮忙点点Star，谢谢！
 \end{frame}
 
 

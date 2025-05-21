@@ -107,13 +107,15 @@
 \headcommand {\beamer@framepages {46}{46}}
 \headcommand {\slideentry {3}{0}{5}{47/47}{}{0}}
 \headcommand {\beamer@framepages {47}{47}}
-\headcommand {\beamer@sectionpages {43}{47}}
-\headcommand {\beamer@subsectionpages {43}{47}}
-\headcommand {\sectionentry {4}{参考文献}{48}{参考文献}{0}}
-\headcommand {\slideentry {4}{0}{0}{48/48}{}{0}}
+\headcommand {\slideentry {3}{0}{6}{48/48}{}{0}}
 \headcommand {\beamer@framepages {48}{48}}
-\headcommand {\beamer@partpages {1}{48}}
-\headcommand {\beamer@subsectionpages {43}{48}}
 \headcommand {\beamer@sectionpages {43}{48}}
-\headcommand {\beamer@documentpages {48}}
-\headcommand {\gdef \inserttotalframenumber {48}}
+\headcommand {\beamer@subsectionpages {43}{48}}
+\headcommand {\sectionentry {4}{参考文献}{49}{参考文献}{0}}
+\headcommand {\slideentry {4}{0}{0}{49/49}{}{0}}
+\headcommand {\beamer@framepages {49}{49}}
+\headcommand {\beamer@partpages {1}{49}}
+\headcommand {\beamer@subsectionpages {43}{49}}
+\headcommand {\beamer@sectionpages {43}{49}}
+\headcommand {\beamer@documentpages {49}}
+\headcommand {\gdef \inserttotalframenumber {49}}
