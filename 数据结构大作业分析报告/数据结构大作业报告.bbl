@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Page et~al.(1999)Page, Brin, Motwani, and Winograd]{Page1999ThePC}
+Lawrence Page, Sergey Brin, Rajeev Motwani, and Terry Winograd.
+\newblock The pagerank citation ranking : Bringing order to the web.
+\newblock In \emph{The Web Conference}, 1999.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:1508503}.
+
+\end{thebibliography}

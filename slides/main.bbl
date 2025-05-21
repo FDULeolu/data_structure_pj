@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+% this bibliography was produced with the style dinat.bst v2.5
+\makeatletter
+\newcommand{\dinatlabel}[1]%
+{\ifNAT@numbers\else\NAT@biblabelnum{#1}\hspace{2\labelsep}\fi}
+\makeatother
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax\def\url#1{\texttt{#1}}\fi
+
+\bibitem[Page u.\,a.(1999)Page, Brin, Motwani und Winograd]{Page1999ThePC}
+\dinatlabel{Page u.\,a. 1999} \textsc{Page}, Lawrence~; \textsc{Brin}, Sergey~; \textsc{Motwani}, Rajeev~; \textsc{Winograd}, Terry:
+\newblock The PageRank Citation Ranking : Bringing Order to the Web.
+\newblock In: \emph{The Web Conference}, URL \url{https://api.semanticscholar.org/CorpusID:1508503}, 1999
+
+\end{thebibliography}
